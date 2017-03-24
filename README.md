@@ -1,3 +1,5 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
 # Google Cloud Storage PHP Sample Application
 
 ## Description
